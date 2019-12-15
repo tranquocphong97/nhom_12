@@ -1,0 +1,237 @@
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll.config
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.pdb
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe.config
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.rsp
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe.config
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.rsp
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.AppContext.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Console.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe.config
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.rsp
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\WebGrease.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.pdb
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csproj.CopyComplete
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.dll
+C:\Users\Ngo Phu Lan\source\repos\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.pdb
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll.config
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.pdb
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\WebGrease.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.dll
+C:\Users\Admin\Desktop\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.pdb
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll.config
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\BTL_KTTKPM.pdb
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.exe.config
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csc.rsp
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.exe.config
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\csi.rsp
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.Managed.Core.targets
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.AppContext.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Collections.Immutable.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Console.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Compression.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.IO.Pipes.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Reflection.Metadata.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.AccessControl.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Claims.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Security.Principal.Windows.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.ValueTuple.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XmlDocument.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.exe.config
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\vbc.rsp
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\roslyn\VBCSCompiler.exe.config
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.Web.Infrastructure.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\WebGrease.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\EntityFramework.SqlServer.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Helpers.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Mvc.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Optimization.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.Razor.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Deployment.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\System.Web.WebPages.Razor.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Newtonsoft.Json.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Antlr3.Runtime.pdb
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csprojAssemblyReference.cache
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.csproj.CopyComplete
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.dll
+F:\môn học\kiến trúc và thiết kế phần mềm\bảo vệ\BTL_KTTKPM\BTL_KTTKPM\obj\Debug\BTL_KTTKPM.pdb
